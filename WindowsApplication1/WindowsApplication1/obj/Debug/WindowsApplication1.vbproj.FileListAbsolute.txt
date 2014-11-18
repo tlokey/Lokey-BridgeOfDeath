@@ -1,0 +1,14 @@
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\tlokey\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\tlokey\Documents\Visual Studio 2013\Projects\BridgeOfDeath\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\tlokey\Documents\Visual Studio 2013\Projects\BridgeOfDeath\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\tlokey\Documents\Visual Studio 2013\Projects\BridgeOfDeath\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\tlokey\Documents\Visual Studio 2013\Projects\BridgeOfDeath\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
